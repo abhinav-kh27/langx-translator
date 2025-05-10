@@ -46,7 +46,8 @@ p {
    HERO SECTION
 ========================== */
 .hero {
-  background-image: url('https://images.pexels.com/photos/2449600/pexels-photo-2449600.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-image:
+url('https://images7.alphacoders.com/108/thumb-350-1083815.webp');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -57,6 +58,7 @@ p {
   text-align: center;
   color: white;
 }
+
 
 .hero-content h1 {
   font-size: 3rem;
